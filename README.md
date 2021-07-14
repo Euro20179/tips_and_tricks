@@ -1,4 +1,6 @@
 # TIL
-A collection of some things I learn
+A collection of some things I learn.
 
-[tr](tr.md)
+# Topics
+* [tr](tr.md)
+* [reddit](reddit.md)
