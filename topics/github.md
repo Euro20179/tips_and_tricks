@@ -1,3 +1,3 @@
 # Github Website
 
-* commit messages are rendered with markdown
+* commit messages in a pull request are rendered with markdown
