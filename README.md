@@ -13,3 +13,4 @@ A collection of some tips and tricks I have learned.
 
 ## websites
 * [reddit](topics/reddit.md)
+* [github](topics/github.md)
