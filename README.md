@@ -7,9 +7,16 @@ A collection of some tips and tricks I have learned.
 * [paste](topics/paste.md)
 * [cat](topics/cat.md)
 * [libreoffice (yes this is a command)](topics/libreoffice.md)
+* [exec](topics/exec.md)
+
+## package managers
+* [pacman](topics/pacman.md)
 
 ## text
 * [ansi Escape Sequences](topics/ansi_escape_sequences.md)
+
+## vim
+* [shortcuts](topics/vim-shortcuts.md)
 
 ## websites
 * [reddit](topics/reddit.md)
