@@ -7,7 +7,9 @@ A collection of some tips and tricks I have learned.
 * [paste](topics/paste.md)
 * [cat](topics/cat.md)
 * [libreoffice (yes this is a command)](topics/libreoffice.md)
+* [for](topics/for.md)
 * [exec](topics/exec.md)
+* [dd](topics/dd.md)
 
 ## package managers
 * [pacman](topics/pacman.md)
